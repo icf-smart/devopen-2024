@@ -1,0 +1,8 @@
+Considerations in adopting RHEL 8
+RED HAT ENTERPRISE LINUX 8
+Key differences between Red Hat Enterprise Linux 7 and Red Hat Enterprise Linux 8
+Red Hat Customer Content Services
+Legal Notice
+Abstract
+
+This document provides an overview of changes in Red Hat Enterprise Linux 8 since Red Hat Enterprise Linux 7 to help you evaluate an upgrade to Red Hat Enterprise Linux 8.
